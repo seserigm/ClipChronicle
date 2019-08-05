@@ -9,6 +9,38 @@
 
 - 電撃チェンクロレター：シナリオ担当者コラム「チェンクロ3裏日誌」（電撃オンライン・電撃App）
 
+  - [伝承篇第9回](https://dengekionline.com/articles/6877/) 黒騎士伝
+    『義勇軍の台所』
+  - [第43回](https://dengekionline.com/articles/5502/) アリーチェ篇
+    『アドヴェルサス教授の話』
+  - [伝承篇第8回](https://dengekionline.com/articles/5059/) シルヴァ伝
+    『副都の歴史』
+  - [伝承篇第7回](https://dengekionline.com/articles/3424/) ユリアナ伝
+    『聖騎士への道』
+  - [第42回](https://dengekionline.com/articles/1525/) アマツ篇
+    『改めて、火鬼について』
+  - [伝承篇第6回](https://dengekionline.com/articles/636/) 魔法兵団学生伝III
+    『刻印のリスクとその必要性ついて』
+  - [第41回](https://dengekionline.com/elem/000/001/913/1913942/) ヘリオス篇
+    『異能について』
+  - [第40回](https://dengekionline.com/elem/000/001/907/1907341/) エシャル篇
+    『砂漠の歴史』
+  - [伝承篇第5回](https://dengekionline.com/elem/000/001/897/1897534/) 魔法兵団学生伝II
+    『魔法学園の学園祭について』
+  - [第39回](https://dengekionline.com/elem/000/001/891/1891326/) セレステ篇
+    『古代鉄煙文明』
+  - [第38回](https://dengekionline.com/elem/000/001/882/1882450/) アマツ篇
+    『第六領主アキカゼ登場！』
+  - [第37回](https://dengekionline.com/elem/000/001/863/1863384/) アリーチェ篇
+    『学生寮のはなし』
+  - [伝承篇第4回](https://dengekionline.com/elem/000/001/856/1856290/) リヴェラ伝
+    『命あふれる最果ての地』
+  - [伝承篇第3回](https://dengekionline.com/elem/000/001/839/1839204/) アシュリナ伝
+    『アシュリナの家庭教師』
+  - [第36回](https://dengekionline.com/elem/000/001/836/1836972/) ヘリオス篇
+    『十七聖人』
+  - [伝承篇第2回](https://dengekionline.com/elem/000/001/825/1825595/) 魔法兵団学生伝I
+    『運命の賢者について』
   - [第35回](http://dengekionline.com/elem/000/001/815/1815654/) セレステ篇
     『マナと妖精族と人間』
   - [番外編第1回](http://dengekionline.com/elem/000/001/802/1802848/) 伝承篇ヨシツグ伝
@@ -81,6 +113,7 @@
   - [第1回](http://dengekionline.com/elem/000/001/455/1455019/) セレステ篇
     『みんな大好きユグドさん』
 - 「チェインクロニクル3」ストーリーインタビュー（4Gamer.net）
+  - [第5弾](https://www.4gamer.net/games/223/G022384/20190123095/)
   - [第4弾](http://www.4gamer.net/games/223/G022384/20180209064/)
   - [第3弾](http://www.4gamer.net/games/223/G022384/20180205025/)
   - [第2弾](http://www.4gamer.net/games/223/G022384/20170614020/)
@@ -90,15 +123,20 @@
 2.有志の手によるもの
 ----------------------------------------------------
 
-- [チェインクロニクル設定資料集（仮）](https://docs.google.com/document/d/1gvaZty5EgXB3U7VmUhg-iYYmMT2Zf94RSRXdvNRieEY/edit)
+- [チェインクロニクル設定資料集（仮）](https://docs.google.com/document/d/1gvaZty5EgXB3U7VmUhg-iYYmMT2Zf94RSRXdvNRieEY/edit)  
   [Vee](http://twitter.com/WisedVee)さん作
   [公開時のツイート](https://twitter.com/WisdVee/status/835713251564371969)
-- [聖騎士相関図完成版（仮）](https://pbs.twimg.com/media/C6KBPD8U8AAUH_V.jpg)
+- [聖騎士相関図完成版（仮）](https://pbs.twimg.com/media/C6KBPD8U8AAUH_V.jpg)  
   [嶽友（ダケトモ）](https://twitter.com/daketomo)さん作
   [公開時のツイート](https://twitter.com/daketomo/status/838374590455799808)
-- [オルオレータ様まとめ](https://twitter.com/kotoneisbizk/status/969885145414082560)
+- [『騎士団・聖騎士』相関図](https://pbs.twimg.com/media/DbzN5f5UwAA0U09?format=png&name=large)  
+  [嶽友（ダケトモ）](https://twitter.com/daketomo)さん原案・拙作
+  [公開時のツイート](https://twitter.com/seseri_gm/status/989892600244006913)
+- [『森妖精』氏族別一覧+α](https://pbs.twimg.com/media/DclsvG5U0AIYct9?format=png&name=large)  
+  拙作
+  [公開時のツイート](https://twitter.com/seseri_gm/status/993446314821103616)
+- [オルオレータ様まとめ](https://twitter.com/kotoneisbizk/status/969885145414082560)  
   [琴音](https://twitter.com/kotoneisbizk)さん作
-- [鉄煙アルファベット考察](https://twitter.com/withnorm1/status/964676264819703809)
+- [鉄煙アルファベット考察](https://twitter.com/withnorm1/status/964676264819703809)  
   [withnorm](https://twitter.com/withnorm1)さん作
-- [チェインクロニクルWiki設定考察板](https://チェインクロニクル.gamerch.com/%E8%A8%AD%E5%AE%9A%E8%80%83%E5%AF%9F%E6%9D%BF)
-
+- [チェインクロニクルWiki設定考察板](https://チェインクロニクル.gamerch.com/%E8%A8%AD%E5%AE%9A%E8%80%83%E5%AF%9F%E6%9D%BF)  
