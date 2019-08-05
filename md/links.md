@@ -123,9 +123,12 @@
 2.有志の手によるもの
 ----------------------------------------------------
 
+<!--
 - [チェインクロニクル設定資料集（仮）](https://docs.google.com/document/d/1gvaZty5EgXB3U7VmUhg-iYYmMT2Zf94RSRXdvNRieEY/edit)  
   [Vee](http://twitter.com/WisedVee)さん作  
   [公開時のツイート](https://twitter.com/WisdVee/status/835713251564371969)
+-->
+
 - [聖騎士相関図完成版（仮）](https://pbs.twimg.com/media/C6KBPD8U8AAUH_V.jpg)  
   [嶽友（ダケトモ）](https://twitter.com/daketomo)さん作  
   [公開時のツイート](https://twitter.com/daketomo/status/838374590455799808)
