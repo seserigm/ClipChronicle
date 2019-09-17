@@ -1,4 +1,8 @@
-# チェンクロ3 パーティ編成のすすめ
+---
+theme: jekyll-theme-minimal
+lang: ja-JP
+title: チェンクロ3 パーティ編成のすすめ｜ClipChronicle
+---
 
 初心者向けです。
 2019.09 更新
