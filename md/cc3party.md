@@ -1,7 +1,7 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
-title: チェンクロ3 パーティ編成のすすめ｜ClipChronicle
+title: チェンクロ3 パーティ編成のすすめ
+permalink: /cc3party/
 ---
 
 初心者向けです。
