@@ -1,8 +1,4 @@
----
-theme: jekyll-theme-minimal
-lang: ja-JP
-title: ClipChronicle
----
+# ClipChronicle
 
 スマートフォン用ゲーム「チェインクロニクル」の内容に関する覚書きです。主に作中のキーアイテム「クロニクル」について扱っています。
 
