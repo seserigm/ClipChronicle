@@ -1,5 +1,5 @@
 ---
-permalink: /md/mymusics.md
+permalink: /:name/
 ---
 
 # 主題歌・サントラ好きの、パソコンでの音源管理の例

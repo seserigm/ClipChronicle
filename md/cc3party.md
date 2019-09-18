@@ -1,5 +1,5 @@
 ---
-permalink: /md/cc3party.md
+permalink: /:name/
 ---
 
 # チェンクロ3 パーティ編成のすすめ

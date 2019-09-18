@@ -1,5 +1,5 @@
 ---
-permalink: /md/summary.md
+permalink: /:name/
 ---
 
 # あらすじ

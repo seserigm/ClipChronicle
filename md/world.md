@@ -1,5 +1,5 @@
 ---
-permalink: /md/world.md
+permalink: /:name/
 ---
 
 # ワールドガイド

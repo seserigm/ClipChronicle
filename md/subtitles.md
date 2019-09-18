@@ -1,5 +1,5 @@
 ---
-permalink: /md/subtitles.md
+permalink: /:name/
 ---
 
 # シナリオ副題一覧

@@ -1,5 +1,5 @@
 ---
-permalink: /md/chronicle.md
+permalink: /:name/
 ---
 
 # クロニクル

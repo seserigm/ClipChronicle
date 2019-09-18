@@ -1,5 +1,5 @@
 ---
-permalink: /md/3quests.md
+permalink: /:name/
 ---
 
 # 3クエキャラリスト

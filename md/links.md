@@ -1,5 +1,5 @@
 ---
-permalink: /md/links.md
+permalink: /:name/
 ---
 
 # 参考資料

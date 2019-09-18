@@ -1,5 +1,5 @@
 ---
-permalink: /md/note.md
+permalink: /:name/
 ---
 
 # ネタ帳
