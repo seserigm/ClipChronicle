@@ -1,5 +1,6 @@
 ---
-permalink: /:title
+lang: ja-JP
+permalink: /:title/
 ---
 
 # チェンクロ3 パーティ編成のすすめ
