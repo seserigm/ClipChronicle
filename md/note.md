@@ -1,8 +1,8 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
-title: ネタ帳｜ClipChronicle
 ---
+
+# ネタ帳
 
 
 読み物になっていないもの。妄想や考察のネタを集めて置いておく場所。

@@ -1,8 +1,9 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
-title: 参考資料｜ClipChronicle
 ---
+
+# 参考資料｜ClipChronicle
+
 
 
 有志によるまとめや公式ライターのコラム・インタビューなど、理解の助けになりそうなもの。資料への参照性を高めるためにリンクを設置しています。

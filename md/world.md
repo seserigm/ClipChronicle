@@ -1,8 +1,8 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
-title: ワールドガイド｜ClipChronicle
 ---
+
+# ワールドガイド｜ClipChronicle
 
 チェインクロニクルの物語は、第1部は「ユグド大陸」、第2部は外海のさまざまな大陸を舞台に繰り広げられます。
 

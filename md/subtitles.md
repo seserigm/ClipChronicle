@@ -1,8 +1,8 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
-title: シナリオ副題一覧｜ClipChronicle
 ---
+
+# シナリオ副題一覧
 
 以下は、ゲーム「チェインクロニクル」のストーリー各話のサブタイトル一覧です。
 

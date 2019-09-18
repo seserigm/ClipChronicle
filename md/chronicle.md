@@ -1,8 +1,8 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
-title: クロニクル｜ClipChronicle
 ---
+
+# クロニクル
 
 
 以下は、ゲーム「チェインクロニクル」の内容に関する覚書きです。（*注意：ネタバレを含みます、また解釈が正しいとは限りません*）
