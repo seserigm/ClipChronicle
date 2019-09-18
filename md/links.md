@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/links.md
 ---
 
 # 参考資料

@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/mymusics.md
 ---
 
 # 主題歌・サントラ好きの、パソコンでの音源管理の例

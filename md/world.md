@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/world.md
 ---
 
 # ワールドガイド

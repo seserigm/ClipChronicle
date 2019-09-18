@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/kamisiro.md
 ---
 
 # 上代｜ClipChronicle

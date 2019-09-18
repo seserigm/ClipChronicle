@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/cc3party.md
 ---
 
 # チェンクロ3 パーティ編成のすすめ

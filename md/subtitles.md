@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/subtitles.md
 ---
 
 # シナリオ副題一覧

@@ -1,5 +1,5 @@
 ---
-lang: ja-JP
+permalink: /md/3quests.md
 ---
 
 # 3クエキャラリスト
