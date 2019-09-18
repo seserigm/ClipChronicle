@@ -1,5 +1,5 @@
 ---
-permalink: /:name/
+permalink: /:title
 ---
 
 # 上代｜ClipChronicle

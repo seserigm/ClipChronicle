@@ -1,5 +1,5 @@
 ---
-permalink: /:name/
+permalink: /:title
 ---
 
 # ネタ帳

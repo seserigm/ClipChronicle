@@ -1,5 +1,5 @@
 ---
-permalink: /:name/
+permalink: /:title
 ---
 
 # チェンクロ3 パーティ編成のすすめ

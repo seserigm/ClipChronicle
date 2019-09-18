@@ -1,5 +1,5 @@
 ---
-permalink: /:name/
+permalink: /:title
 ---
 
 # シナリオ副題一覧

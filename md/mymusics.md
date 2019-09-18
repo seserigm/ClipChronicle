@@ -1,5 +1,5 @@
 ---
-permalink: /:name/
+permalink: /:title
 ---
 
 # 主題歌・サントラ好きの、パソコンでの音源管理の例
