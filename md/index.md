@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-minimal
 lang: ja-JP
 title: ClipChronicle
 ---
