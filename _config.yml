@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 locale: ja-JP
-permalink: /:path/:name
+permalink: /:path/:name:output_ext
 title: ClipChronicle

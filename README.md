@@ -1,5 +1,6 @@
 ---
 lang: ja-JP
+permalink: /
 title: ClipChronicle
 ---
 
