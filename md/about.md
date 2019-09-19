@@ -16,7 +16,7 @@ update|{{site.time}}
 {% for page in site.html_pages %}
 - [
     {{page.title}}  
-    {{site.url}}{{site.baseurl}}{{page.url}}
+    {{site.baseurl}}{{page.url}}
   ]({{site.baseurl}}{{ page.url}})  
 {% endfor %}
 

@@ -1,5 +1,6 @@
 ---
-permalink: /:title
+lang: ja-JP
+permalink: /summary/
 ---
 
 # あらすじ
