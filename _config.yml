@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-locale: ja-JP
 title: ClipChronicle
+timezone: Asia/Tokyo
+permalink: /:title/

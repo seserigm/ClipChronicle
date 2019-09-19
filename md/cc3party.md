@@ -1,5 +1,4 @@
 ---
-lang: ja-JP
 permalink: /:title/
 ---
 

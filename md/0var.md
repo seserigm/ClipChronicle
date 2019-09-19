@@ -1,6 +1,6 @@
 ---
-permalink: /var/
 lang: ja-JP
+permalink: /var/
 ---
 
 # var

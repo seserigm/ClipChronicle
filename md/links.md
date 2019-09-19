@@ -1,5 +1,5 @@
 ---
-permalink: /:title
+permalink: /:title/
 ---
 
 # 参考資料
