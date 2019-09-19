@@ -8,6 +8,7 @@ permalink: /var/
 var|val
 ---|---
 site.url|{{site.url}}
+site.baseurl|{{site.baseurl}}
 site.time|{{site.time}}
 title|{{title}}
 name|{{name}}
@@ -26,10 +27,10 @@ page.lang|{{page.lang}}
 ## pages
 
 {% for page in site.html_pages %}
-- [{{page.title}}]({{site.url}}{{ page.url}})  
+- [{{page.title}}]({{site.baseurl}}{{ page.url}})  
   page.date : {{page.date}}  
   page.id : {{page.id}}  
   page.dir : {{page.dir}}  
-  page.name: {{page.name}}
+  page.name: {{page.name}}  
   page.path: {{page.path}}
 {% endfor %}
