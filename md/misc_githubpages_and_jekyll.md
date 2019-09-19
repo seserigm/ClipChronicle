@@ -1,39 +1,46 @@
 ---
 lang: ja-JP
-title: GitHub Pages と Jekyll
+tags: GitHub Jekyll
 ---
 
-わかんなくて何日か費やしたので未来の自分への手紙。
+# GitHub Pages と Jekyll
+
+わかんなくてだいぶ時間を費やしたので未来の自分へのお手紙。
+GitHubとリポジトリが何かを知っているくらいの前提です。
 
 ## GitHub Pages
 
-GitHub に `\<ユーザ名\>.github.io` ってリポジトリを作ると、そのURLで公開できるよ。  
-別名のリポジトリなら、`ユーザ名.github.io/\<リポジトリ名\>` ってURLで公開できるよ。
+GitHubに `<ユーザ名>.github.io`ってリポジトリを作ると、そのURLで公開できるよ。  
+別名のリポジトリなら、`<ユーザ名>.github.io/<リポジトリ名>`ってURLで公開できるよ。
 
-公開は、リポジトリの Settings - GitHub Pages で有効にできるよ。  
-非公開は、リポジトリを削除すればできるよ。（有料会員ならプライベート化でもできる）
+公開は、リポジトリのSettings - GitHub Pagesで有効にできるよ。  
+非公開には、リポジトリを削除すればできるよ。
+有料会員ならリポジトリのプライベート化もできるらしいよ。
 
-リポジトリのルートの README.md が index になるよ。  
-リポジトリの構成のまま公開されるけど、md は utf-8 でも文字化けしたよ……。
+リポジトリのルートにあるREADME.mdがindexになるよ。  
+リポジトリの構成のまま公開されるけど、mdファイルはutf-8でも文字化けしたよ……。
 
-テーマを適用させて、素のテキストじゃなく webページとして表示させれば文字化けしないし、見栄えも良くできるよ。
-テーマは、リポジトリの Settings - GitHub Pages - Theme Chooser から選ぶと適用されるよ。
+テーマを適用させて、テキストじゃなくwebページとして表示させれば文字化けしないし、見栄えも良くできるよ。  
+テーマは、リポジトリのSettings - GitHub Pages - Theme Chooserから選ぶと適用できるよ。
 
 ## Jekyll
 
-テーマの適用には Jekyll っていう仕組みを使っているよ。  
-困ったら Jekyll のドキュメントを読むといいよ。
+テーマの適用にはJekyllっていう仕組みが使われているよ。  
+困ったら[Jekyll公式のドキュメント](http://jekyllrb-ja.github.io/docs/github-pages/)を読むといいよ。  
+読んでもわからなかったから自分はこれを書いているんだけど……。
 
-GitHub Pages も Jekyll もリポジトリの外にある仕組みだから、変換後にどういう構成になったかはそれぞれの知識を持っていないと知るのが大変だよ。
+GitHub PagesもJekyllもリポジトリの外にある仕組みだから、変換後にどういう構成になるかはそれぞれの知識を持っていないと知るのが大変だよ。
 
-Jekyll は mdファイルをラップする**だけ**の仕組みではないよ。  
-Jekyll は（たぶん）mdファイルを html に変換して、GitHub Pagesサーバーに設置するよ。  
-設定を書いて指定のパスで公開させたりもできるよ。
+Jekyllは、mdファイルをラップする**だけ**の仕組みではないよ。  
+自分はGitHubでmdを見たときのように、URLはmdファイルのもので見た目だけが変わると思っていたから躓きが大きかったよ……。
 
-Jekyll に変換させたい md は、文書の先頭に front matter を記載しておくよ。  
-front matter は `---` で括られたテキストで、記載する場合は必ず mdファイルの先頭に書くよ。
+Jekyllは、mdファイルをhtmlに変換してGitHub Pagesサーバーに設置するよ。  
+設定を書いて、指定のURLで公開させたりもできるよ。
 
-たとえば、mdディレクトリにある `about.md` を `ユーザ名.github.io/リポジトリ名/about` として公開したい場合は以下のように書くよ。
+変換させたいmdの先頭にはfront matterを記載するよ。  
+front matterは`---`で括られたテキストブロックで、記載する場合は必ずmdファイルの先頭に書くよ。
+
+たとえば、リポジトリ直下の`md`というディレクトリにある`about.md`を`ユーザ名.github.io/リポジトリ名/about`というURLで公開したい場合は以下のように書くよ。
 
 ```yml
 ---
@@ -41,19 +48,30 @@ permalink: /about/
 ---
 ```
 
-ここでは様々な情報を設定することができるよ。  
+permalinkを書いていないときは、`ユーザ名.github.io/リポジトリ名/md/about.html`というURLで公開されるよ。
+
+このfront matterを使っていろんな情報を設定できるよ。  
 たとえば……
 
 ```yml
 ---
 lang: ja-JP
-permalink: /about/
-title: 文書のタイトル
+permalink: /githubpages-and-jekyll/
+title: GitHub Pages と Jekyll
+tags: GitHub Pages Jekyll
 ---
 ```
 
 みたいに。  
+逆に設定なしでhtml化したいときは、空のfront matterを置けばいいよ。
 
-一括で設定するには、_config.yml というファイルを編集するよ。  
-_config.yml は、初回テーマ適用時にリポジトリのルートに追加されるよ。
+```yml
+---
+---
+```
+
+詳しくは[Jekyll公式のFront Matter](http://jekyllrb-ja.github.io/docs/front-matter/)を参照。
+
+mdファイルごとにじゃなく一括で設定するには、_config.ymlというファイルを編集するよ。  
+_config.ymlは、初回テーマ適用時にリポジトリのルートに追加されるよ。
 
