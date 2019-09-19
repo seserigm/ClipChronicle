@@ -1,5 +1,6 @@
 ---
 lang: ja-JP
+permalink: /githubpages+jekyll/
 tags: GitHub Jekyll
 ---
 
