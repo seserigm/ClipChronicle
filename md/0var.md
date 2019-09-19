@@ -25,6 +25,6 @@ page.lang|{{page.lang}}
 
 {% for page in site.html_pages %}
 
-- [page.title](page.url)
+- [{{page.title}}]({{page.url}})
 
 {% endfor %}
