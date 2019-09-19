@@ -1,5 +1,6 @@
 ---
-permalink: /:title/
+lang: ja-JP
+permalink: /cc3party/
 ---
 
 # チェンクロ3 パーティ編成のすすめ
