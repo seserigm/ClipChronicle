@@ -1,3 +1,5 @@
+locale: "ja-JP"
 theme: jekyll-theme-minimal
 title: ClipChronicle
 timezone: Asia/Tokyo
+sass: style: compresssed
