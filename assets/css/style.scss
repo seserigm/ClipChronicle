@@ -57,7 +57,7 @@ section {
   h2 {
     color: #222;
     font-family: 'Noto Serif JP', serif;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.1;
     margin: 4rem 0 3rem;
   }
@@ -79,21 +79,18 @@ section {
 a {
   color: #39c;
   text-decoration: none;
-}
-
-a:hover {
-  color: #069;
-}
-
-a small {
-  font-size: .75rem;
-  color: #777;
-  margin-top: -0.3em;
-  display: block;
-}
-
-a:hover small {
-  color:#777;
+  :hover {
+    color: #069;
+    small {
+      color:#777;
+    }
+  }
+  small {
+    font-size: .75rem;
+    color: #777;
+    margin-top: -0.3em;
+    display: block;
+  }
 }
 
 .wrapper {
@@ -151,65 +148,56 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-}
-
-header ul {
-  list-style: none;
-  height: 40px;
-  padding: 0;
-  background: #f4f4f4;
-  border-radius: 5px;
-  border: 1px solid #e0e0e0;
-  width: 270px;
-}
-
-header li {
-  width: 89px;
-  float: left;
-  border-right: 1px solid #e0e0e0;
-  height: 40px;
-}
-
-header li:first-child a {
-  border-radius: 5px 0 0 5px;
-}
-
-header li:last-child a {
-  border-radius: 0 5px 5px 0;
-}
-
-header ul a {
-  line-height: 1;
-  font-size: 11px;
-  color: #999;
-  display: block;
-  text-align: center;
-  padding-top: 6px;
-  height: 34px;
-}
-
-header ul a:hover {
-  color: #999;
-}
-
-header ul a:active {
-  background-color: #f0f0f0;
+  ul {
+    list-style: none;
+    height: 40px;
+    padding: 0;
+    background: #f4f4f4;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    width: 270px;
+    a {
+      line-height: 1;
+      font-size: 11px;
+      color: #999;
+      display: block;
+      text-align: center;
+      padding-top: 6px;
+      height: 34px;
+      :hover {
+        color: #999;
+      }
+      :active {
+        background-color: #f0f0f0;
+      }
+      strong {
+        font-size: 14px;
+        display: block;
+        color: #222;
+      }
+    }
+    li + li + li {
+      border-right: none;
+      width: 89px;
+    }
+  }
+  li {
+    width: 89px;
+    float: left;
+    border-right: 1px solid #e0e0e0;
+    height: 40px;
+    :first-child a {
+      border-radius: 5px 0 0 5px;
+    }
+    :last-child a {
+      border-radius: 0 5px 5px 0;
+    }
+  }
 }
 
 strong {
   color: #222;
-  font-weight: 500;
-}
-
-header ul li + li + li {
-  border-right: none;
-  width: 89px;
-}
-
-header ul a strong {
-  font-size: 14px;
-  display: block;
-  color: #222;
+  font-weight: 800;
 }
 
 section {
@@ -236,10 +224,9 @@ footer {
   position: fixed;
   bottom: 2rem;
   -webkit-font-smoothing: subpixel-antialiased;
-}
-
-footer p {
+  p {
     margin-bottom: 0.25rem;
+  }
 }
 
 @media print, screen and (max-width: 960px) {
@@ -260,6 +247,14 @@ footer p {
 
   header {
     padding-right: 300px;
+    a small {
+      display: inline;
+    }
+    ul {
+      position: absolute;
+      right: 50px;
+      top: 52px;
+    }
   }
 
   section {
@@ -267,16 +262,6 @@ footer p {
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
-  }
-
-  header a small {
-    display: inline;
-  }
-
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
   }
 }
 
