@@ -3,7 +3,7 @@ lang: ja-JP
 permalink: /summary/
 ---
 
-# あらすじ
+# あらすじ｜チェンクロ
 
 ## 第1部
 

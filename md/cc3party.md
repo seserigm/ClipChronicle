@@ -3,7 +3,7 @@ lang: ja-JP
 permalink: /cc3party/
 ---
 
-# チェンクロ3:パーティ編成のすすめ
+# パーティ編成のすすめ｜チェンクロ
 
 脱・初心者を目指すチェンクラーが、パーティの組み方や考え方をまとめています。  
 キャラクター名のリンクは[チェインクロニクル攻略・交流Wiki](https://xn--eckfza0gxcvmna6c.gamerch.com/)へのものです。  
@@ -95,15 +95,15 @@ permalink: /cc3party/
 編成B|ATK \* 1.2|\* 1.2|\* 1.2|\* 1.2|\* 1.2|\* 1.1|\* 1.1|≒ 3.01
 編成C|ATK \* 1.1|\* 1.1|\* 1.1|\* 1.1|\* 1.1|\* 1.1|\* 1.1|≒ 1.95
 
-のように、2019秋時点で標準になりつつある30%結束を揃えると5倍近くの攻撃力を発揮するようになります。戦闘中のバフスキル発動でさらに強くなります。
+このように、2019秋時点で標準になりつつある30%結束のパーティアビリティを組み込むことで基礎値が大きく変わります。  
+これらは戦闘中のバフスキル発動でさらに影響が大きくなります。
 
 ### 強化率の高いアルカナ・サポーター篇
 
 強化の倍率は公表されておらず、ゲーム内で結束の強さを比較することはできません。有志による検証と情報共有が命綱になっています。
 
-比較に関しては、[ジュン](https://mobile.twitter.com/jun_phanon/status/1176124888655880193)さんにより作成・公開されている表「[結束・まとめ.xlsx](https://drive.google.com/file/d/1NhQTyw-4HgL2tAxrkY-dF7JX_aCcP-Gb/view)」(Google Drive) がとても参考になります。
-
-
+比較に関しては、[ジュン](https://mobile.twitter.com/jun_phanon/status/1176124888655880193)さんにより作成・公開されている表「[初心者向け手引きと結束まとめ](https://drive.google.com/file/d/1NhQTyw-4HgL2tAxrkY-dF7JX_aCcP-Gb/view)」(Google Drive) がとても参考になります。  
+[名無しのユーリ](https://mobile.twitter.com/namelessyuriy2)さんによる[紹介記事](http://www.namelessyuriy.com/article/470530267.html)
 
 
 ### おすすめの伝授スキル・サポーター篇

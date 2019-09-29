@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #fff;
-  color: #666;
+  color: #555;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: .875rem;
   font-weight: 400;
@@ -56,13 +56,14 @@ section {
     margin: 0 0 1.25rem;
   }
   h2 {
-    color: #222;
+    color: #000;
     font-family: 'Noto Serif JP', serif;
     font-weight: 500;
     line-height: 1.1;
     margin: 4rem 0 3rem;
   }
   h3 {
+    color: #444;
     font-weight: 600;
     line-height: 1.1;
     margin: 3rem 0 1rem;
