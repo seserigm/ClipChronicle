@@ -7,11 +7,12 @@ permalink: /links/
 
 有志によるまとめや公式ライターのコラム・インタビューなど、理解の助けになりそうなもの。資料への参照性を高めるためにリンクを設置しています。
 
+
 ## 目次
 
 1. [公式のもの](#公式のもの)
-    1. [チェンクロ3裏日誌](#チェンクロ3裏日誌)
-    1. [ストーリーインタビュー](#ストーリーインタビュー)
+    1. [チェンクロ3裏日誌（電撃ONLINE）](#チェンクロ3裏日誌（電撃ONLINE）)
+    1. [ストーリーインタビュー（4Gamers）](#ストーリーインタビュー（4Gamers）)
 1. [有志の手によるもの](#有志の手によるもの)
     1. [設定系](#設定系)
     1. [攻略系](#攻略系)
@@ -19,16 +20,28 @@ permalink: /links/
 
 ## 公式のもの
 
-### チェンクロ3裏日誌
+### チェンクロ3裏日誌（電撃ONLINE）
 
 電撃オンライン（旧・電撃App）の連載記事「電撃チェンクロレター」へのリンクです。
 シナリオ担当者によるコラム「チェンクロ3裏日誌」が掲載されています。
 
-[公式のリンク集](http://chronicle.sega-net.com/members/info/detail/077478lNXtyDJ6.html)
+2020/03/11 : [ゲーム内お知らせでリンク集が公開されました](http://chronicle.sega-net.com/members/info/detail/077478lNXtyDJ6.html)。
 
+<!--
+[]()|篇|『』
+-->
 回|シナリオ担当者|裏日誌タイトル
 --:|---|---
-[]()|篇|『』
+[グランドサーガ第4回](https://dengekionline.com/articles/28676/)|砂漠の湖都篇|（コラム休載）
+[第49回](https://dengekionline.com/articles/27580/)|エシャル篇|『いにしえのうた』
+[グランドサーガ第3回](https://dengekionline.com/articles/26512/)|精霊島篇|『森妖精という存在』
+[第48回](https://dengekionline.com/articles/24053/)|セレステ篇|『ユグド考古学』
+[グランドサーガ第2回](https://dengekionline.com/articles/20553/)|炎の九領篇|『第五領主と第七領主』
+[第47回](https://dengekionline.com/articles/20551/)|アマツ篇|『無題（アマツ篇完結に寄せて）』
+[第46回](https://dengekionline.com/articles/17848/)|ヘリオス篇|『聖印について』
+[グランドサーガ第1回](https://dengekionline.com/articles/16600/)|魔神篇|『松永ディレクターのコメント』
+[第45回](https://dengekionline.com/articles/11075/)|セレステ篇|『賢者の塔通信教育講座』
+[第44回](https://dengekionline.com/articles/8050/)|エシャル篇|『ムハバードの悩み』
 [伝承篇第9回](https://dengekionline.com/articles/6877/)|黒騎士伝|『義勇軍の台所』
 [第43回](https://dengekionline.com/articles/5502/)|アリーチェ篇|『アドヴェルサス教授の話』
 [伝承篇第8回](https://dengekionline.com/articles/5059/)|シルヴァ伝|『副都の歴史』
@@ -57,9 +70,9 @@ permalink: /links/
 [第27回](https://dengekionline.com/elem/000/001/724/1724660/)|アリーチェ篇|『学園祭の闘技大会』
 [第26回](https://dengekionline.com/elem/000/001/715/1715321/)|ヘリオス篇|『無題（光の柱）』
 [第25回](https://dengekionline.com/elem/000/001/702/1702665/)|ヘリオス篇|『無題（隊長の手紙）』
-[第24回](https://dengekionline.com/elem/000/001/688/1688695/)|ヘリオス篇|『無題(ギルド連合)』
-[第23回](https://dengekionline.com/elem/000/001/682/1682275/)|エシャル篇|『無題(ムハバードの手)』
-[第22回](https://dengekionline.com/elem/000/001/673/1673192/)|アマツ篇|『無題(3部における各領主)』
+[第24回](https://dengekionline.com/elem/000/001/688/1688695/)|ヘリオス篇|『無題（ギルド連合）』
+[第23回](https://dengekionline.com/elem/000/001/682/1682275/)|エシャル篇|『無題（ムハバードの手）』
+[第22回](https://dengekionline.com/elem/000/001/673/1673192/)|アマツ篇|『無題（3部における各領主）』
 [第21回](https://dengekionline.com/elem/000/001/667/1667071/)|セレステ篇|『伝説の魔法使い』
 [第20回](https://dengekionline.com/elem/000/001/656/1656096/)|アリーチェ篇|『デルフィーナのご実家』
 [第19回](https://dengekionline.com/elem/000/001/631/1631002/)|ヘリオス篇|『家族』
@@ -82,7 +95,7 @@ permalink: /links/
 [第2回](https://dengekionline.com/elem/000/001/469/1469656/)|アリーチェ篇|『名づけのお話』
 [第1回](https://dengekionline.com/elem/000/001/455/1455019/)|セレステ篇|『みんな大好きユグドさん』
 
-### ストーリーインタビュー
+### ストーリーインタビュー（4Gamers）
 
 4Gamer.net に掲載されている「チェインクロニクル3 ストーリーインタビュー」へのリンクです。
 
@@ -98,6 +111,13 @@ permalink: /links/
   ](https://www.4gamer.net/games/223/G022384/20170614020/)
 - [第1弾「各篇のテーマを一言で教えて！ 史上最大級となった“進撃の巨人”コラボのお話も」(2017/04/26)
   ](https://www.4gamer.net/games/223/G022384/20170417068/)
+
+### 他
+
+- [『チェンクロ』松永ディレクターインタビュー後編。ユーザーからの質問に赤裸々に回答！ (2017/12/22)
+  ](https://dengekionline.com/elem/000/001/651/1651473/) (電撃オンライン)
+- [『チェンクロ』松永ディレクターインタビュー前編。帰還篇は“ノリ”を取り戻すのに苦労した？ (2017/12/21)
+  ](https://dengekionline.com/elem/000/001/651/1651459/) (電撃オンライン)
 
 ## 有志の手によるもの
 
@@ -119,7 +139,9 @@ Twitter|[]()|[]()さん
 
 ### 設定系
 
-- [聖騎士相関図（仮）](https://twitter.com/daketomo/status/1068531473970421761)(Twitter)  
+- [ちぇんくろ飯](https://docs.google.com/file/d/1TsJA9ypD_UXEYJJ_LQkg_UGHwSfWIEO5/edit) (Google Spreadsheet)  
+  [ULTI]()さん
+- [聖騎士相関図（仮）](https://twitter.com/daketomo/status/1068531473970421761) (Twitter)  
   [嶽友（ダケトモ）](https://twitter.com/daketomo)さん
 - [騎士団・聖騎士 相関図](https://twitter.com/seseri_gm/status/989892600244006913) (Twitter)  
   [嶽友（ダケトモ）](https://twitter.com/daketomo)さん原案・拙作
@@ -134,9 +156,10 @@ Twitter|[]()|[]()さん
 
 ### 攻略系
 
-- [結束・まとめ](https://drive.google.com/file/d/1NhQTyw-4HgL2tAxrkY-dF7JX_aCcP-Gb/view)  
+- [結束・まとめ](https://drive.google.com/file/d/1NhQTyw-4HgL2tAxrkY-dF7JX_aCcP-Gb/view) (Google 
+Spreadsheet)  
   [ジュン]()さん
-- [新年代記の塔 編成チャート](https://mobile.twitter.com/MarimoGiyugun/status/1233942419042750465)  
+- [新年代記の塔 編成チャート](https://mobile.twitter.com/MarimoGiyugun/status/1233942419042750465) (Twitter)  
   [マリモ](https://twitter.com/MarimoGiyugun)さん
 
 
