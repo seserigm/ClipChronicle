@@ -29,10 +29,6 @@ permalink: /links/
 
 <!--
 []()|篇|『』
--->
-
-回|シナリオ担当者|裏日誌タイトル
---:|---|---
 [グランドサーガ第4回](https://dengekionline.com/articles/28676/)|砂漠の湖都篇|（コラム休載）
 [第49回](https://dengekionline.com/articles/27580/)|エシャル篇|『いにしえのうた』
 [グランドサーガ第3回](https://dengekionline.com/articles/26512/)|精霊島篇|『森妖精という存在』
@@ -41,6 +37,10 @@ permalink: /links/
 [第47回](https://dengekionline.com/articles/20551/)|アマツ篇|『無題（アマツ篇完結に寄せて）』
 [第46回](https://dengekionline.com/articles/17848/)|ヘリオス篇|『聖印について』
 [グランドサーガ第1回](https://dengekionline.com/articles/16600/)|魔神篇|『松永ディレクターのコメント』
+-->
+
+回|シナリオ担当者|裏日誌タイトル
+--:|---|---
 [第45回](https://dengekionline.com/articles/11075/)|セレステ篇|『賢者の塔通信教育講座』
 [第44回](https://dengekionline.com/articles/8050/)|エシャル篇|『ムハバードの悩み』
 [伝承篇第9回](https://dengekionline.com/articles/6877/)|黒騎士伝|『義勇軍の台所』
@@ -157,8 +157,7 @@ Twitter|[]()|[]()さん
 
 ### 攻略系
 
-- [結束・まとめ](https://drive.google.com/file/d/1NhQTyw-4HgL2tAxrkY-dF7JX_aCcP-Gb/view) (Google 
-Spreadsheet)  
+- [結束・まとめ](https://drive.google.com/file/d/1NhQTyw-4HgL2tAxrkY-dF7JX_aCcP-Gb/view) (Google Spreadsheet)  
   [ジュン]()さん
 - [新年代記の塔 編成チャート](https://mobile.twitter.com/MarimoGiyugun/status/1233942419042750465) (Twitter)  
   [マリモ](https://twitter.com/MarimoGiyugun)さん
